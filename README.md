@@ -1,5 +1,4 @@
 ![GitHub forks](https://img.shields.io/github/forks/Apollo/:repo)
-<header>
 ![GitHub Repo stars](https://img.shields.io/github/stars/Apollo/:repo)
 <!--
   <<< Author notes: Course header >>>
