@@ -1,6 +1,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/Apollo/:repo)
 <header>
-
+![GitHub Repo stars](https://img.shields.io/github/stars/Apollo/:repo)
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
