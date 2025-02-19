@@ -1,5 +1,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/Apollo/:repo)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Apollo/:repo)
+[![关注我们的公众号](https://img.shields.io/badge/关注-我们的公众号-green)](https://baidu.com)
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
